@@ -1,0 +1,11 @@
+.vs/
+*.user
+x64/
+Debug/
+Release/
+*.vsidx
+.claude/
+
+# Document
+z_Document
+
